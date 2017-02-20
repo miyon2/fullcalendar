@@ -13,7 +13,7 @@ init_cal=function(){
             agenda: true
         },
         selectHelper: true,
-        editable: true,
+        editable: false,
         allDaySlot: false,
         events: '/events.json',
 
